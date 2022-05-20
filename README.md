@@ -11,4 +11,4 @@ https://huggingface.co/datasets/NLPC-UOM/Sinhala-English-Code-Mixed-Code-Switche
 * [Himashi Rathnayake](https://github.com/HimashiRathnayake)
 * [Janani Sumanapala](https://github.com/JananiSudeeptha)
 * [Raveesha Rukshani](https://github.com/RaveeshaRukshani)
-* Dr Surangika Ranathunga
+* [Dr Surangika Ranathunga](https://github.com/suralk)
